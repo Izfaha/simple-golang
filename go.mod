@@ -1,3 +1,3 @@
-module simple-go-app
+module tugas-devops
 
-go 1.21
+go 1.27.2
